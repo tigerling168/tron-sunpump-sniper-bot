@@ -1,8 +1,7 @@
 # sunpump-sniper-bot
 
 
-![v](https://github.com/user-attachments/assets/6d7cf971-d47e-4643-99ed-ee23d9ace49a)
-
+![og](https://github.com/user-attachments/assets/e31f4758-50d9-4f6d-80e3-cb630e5d7a12)
 
 
 # [Website](https://tronsniper.app/) 
@@ -37,4 +36,3 @@ If you purchased the license input it, else you can use the trial one.
     - Secure: Your private keys and sensitive data are kept secure, ensuring your assets are protected at all times.
 
 
-![sniper](https://github.com/user-attachments/assets/296ff87a-77cd-4879-828e-ad2de5f2695b)
